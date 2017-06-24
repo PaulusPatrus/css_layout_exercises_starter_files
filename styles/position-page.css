@@ -19,12 +19,12 @@ nav {
 	position: relative;
 }
 
-ul {
+nav ul {
 	position: relative;
 	bottom: 15px;
 }
 
-ul, li {
+nav li {
 	display: inline-block;
 }
 
